@@ -83,4 +83,4 @@ def calc_TF_IDF(TF):
 #Stores the TF-IDF Series
 df["TF-IDF_dict"] = df["TF_dict"].apply(calc_TF_IDF)
 
-print(df["TF-IDF_dict"][0])
+print(df["TF-IDF_dict"][1])
