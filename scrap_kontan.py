@@ -9,7 +9,7 @@ PATH = "C:\Program Files (x86)\chromedriver.exe"
 driver = webdriver.Chrome(PATH)
 
 driver.get("https://investasi.kontan.co.id/")
-target = 100
+target = 200
 list = []
 isi = driver.find_element_by_id('list-news')
 artikel = isi.find_elements_by_tag_name('li')
@@ -25,15 +25,16 @@ for i in range(1,target+1):
     a = WebDriverWait(driver, 10).until(EC.element_to_be_clickable(
         (By.XPATH, link))).get_attribute('href')
     # print(str(i) + '. '+a)
-    driver.execute_script("window.open('');")
-    driver.switch_to.window(driver.window_handles[1])
+    driver.execute_script("window.open('');") #open new tab
+    driver.switch_to.window(driver.window_handles[1]) #berpindah
     driver.get(a)
     artikel = driver.find_element_by_class_name('tmpt-desk-kon')
     isi = artikel.find_elements_by_tag_name('p')
     judul = driver.find_element_by_class_name('detail-desk')
     berita = ''
     for n in range(1, len(isi)):
-        berita = berita + isi[n].text
+        if(isi[n].text[:9] != "Baca Juga"):
+            berita = berita + isi[n].text + ' '
     item = {
         'judul' : judul.text,
         'link' : driver.current_url,

@@ -1,0 +1,44 @@
+code,debug,local_name,name,status
+fr,False,Français,French,production
+en,False,English,English,production
+ar,False,العربية,Arabic,production
+ja,False,日本語,Japanese,production
+es,False,Español,Spanish,production
+de,False,Deutsch,German,production
+it,False,Italiano,Italian,production
+id,False,Indonesia,Indonesian,production
+pt,False,Português,Portuguese,production
+ko,False,한국어,Korean,production
+tr,False,Türkçe,Turkish,production
+ru,False,Русский,Russian,production
+nl,False,Nederlands,Dutch,production
+fil,False,Filipino,Filipino,production
+msa,False,Melayu,Malay,production
+zh-tw,False,繁體中文,Traditional Chinese,production
+zh-cn,False,简体中文,Simplified Chinese,production
+hi,False,हिन्दी,Hindi,production
+no,False,Norsk,Norwegian,production
+sv,False,Svenska,Swedish,production
+fi,False,Suomi,Finnish,production
+da,False,Dansk,Danish,production
+pl,False,Polski,Polish,production
+hu,False,Magyar,Hungarian,production
+fa,False,فارسی,Persian,production
+he,False,עברית,Hebrew,production
+th,False,ไทย,Thai,production
+uk,False,Українська,Ukrainian,production
+ca,False,Català,Catalan,production
+el,False,Ελληνικά,Greek,production
+cs,False,Čeština,Czech,production
+ro,False,Română,Romanian,production
+hr,False,Hrvatski,Croatian,production
+en-gb,False,British English,British English,production
+vi,False,Tiếng Việt,Vietnamese,production
+bn,False,বাংলা,Bangla,production
+bg,False,Български,Bulgarian,production
+sr,False,Српски,Serbian,production
+sk,False,Slovenčina,Slovak,production
+gu,False,ગુજરાતી,Gujarati,production
+mr,False,मराठी,Marathi,production
+ta,False,தமிழ்,Tamil,production
+kn,False,ಕನ್ನಡ,Kannada,production
