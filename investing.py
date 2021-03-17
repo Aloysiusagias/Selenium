@@ -10,7 +10,6 @@ driver = webdriver.Chrome(PATH)
 
 driver.get('https://id.investing.com/news/stock-market-news')
 time.sleep(3)
-# WebDriverWait(driver, 10).until(EC.element_to_be_clickable((By.XPATH, '//*[@id="PromoteSignUpPopUp"]/div[2]/i'))).click()
 bungkus = driver.find_element_by_xpath('//*[@id="leftColumn"]/div[4]')
 jumlah = bungkus.find_elements_by_tag_name('article')
 print(len(jumlah))
