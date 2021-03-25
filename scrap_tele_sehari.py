@@ -52,7 +52,11 @@ while belum:
         smntr = scrap
         psn +=1
     while(psn==0):
+        print('########################################################################################################')
         time.sleep(2)
+        wrapper = driver.find_element_by_xpath('/html/body/div[1]/div[2]/div/div[2]/div[3]/div/div[2]/div[1]/div/div[1]/div[2]/div[2]')
+        chat = wrapper.find_elements_by_xpath(".//div[contains(@class, 'im_history_message_wrap')]")
+        scrap = len(chat)
         psn = scrap - smntr
         smntr = scrap
         psn +=1
