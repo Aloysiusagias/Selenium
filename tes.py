@@ -32,15 +32,19 @@
 # f.write("Penulis : "+ penulis +"\nChat : "+Berita+"\n==========================\n")
 # f.write("Penulis : "+ penulis +"\nChat : "+Berita+"\n==========================\n")
 # f.close()
-from selenium import webdriver
-from selenium.webdriver.common.by import By
-from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.support import expected_conditions as EC
-import time
-import pandas as pd
+# from selenium import webdriver
+# from selenium.webdriver.common.by import By
+# from selenium.webdriver.support.ui import WebDriverWait
+# from selenium.webdriver.support import expected_conditions as EC
+# import time
+# import pandas as pd
 
-PATH = "C:\Program Files (x86)\chromedriver.exe"
-driver = webdriver.Chrome(PATH)
+# PATH = "C:\Program Files (x86)\chromedriver.exe"
+# driver = webdriver.Chrome(PATH)
 
-driver.get('https://money.kompas.com/read/2021/03/24/194729926/bantah-selundupkan-baja-dari-china-bos-krakatau-steel-tuduhan-yang-sangat')
-driver.find_element_by_xpath('/html/body/div[1]/div[3]/div[3]/div[1]/div[4]/div[2]/div[6]/div/div[3]/a').click()
+# driver.get('https://money.kompas.com/read/2021/03/24/194729926/bantah-selundupkan-baja-dari-china-bos-krakatau-steel-tuduhan-yang-sangat')
+# driver.find_element_by_xpath('/html/body/div[1]/div[3]/div[3]/div[1]/div[4]/div[2]/div[6]/div/div[3]/a').click()
+f = open("demofile2.txt", "w+")
+for i in range(10):
+    f.write("Now the file has more content!\n")
+f.close()

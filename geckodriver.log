@@ -2545,3 +2545,452 @@ JavaScript warning: https://web.telegram.org/js/app.js, line 20: asm.js type err
 JavaScript warning: https://web.telegram.org/js/app.js, line 31: asm.js type error: numeric literal out of representable integer range
 JavaScript warning: https://web.telegram.org/js/app.js, line 36: asm.js type error: fixnum is not a subtype of double? or floatish
 JavaScript warning: https://web.telegram.org/js/app.js, line 53: asm.js type error: double is not a subtype of int
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1616706958808	Marionette	INFO	Stopped listening on port 56840
+1616772348692	geckodriver	INFO	Listening on 127.0.0.1:57448
+1616772355623	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aloysius\\AppData\\Local\\Temp\\rust_mozprofileo6AkEJ"
+1616772357792	Marionette	INFO	Listening on port 57458
+1616772358315	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.telegram.org/js/app.js, line 20: asm.js type error: duplicate name 'n' not allowed
+JavaScript warning: https://web.telegram.org/js/app.js, line 31: asm.js type error: numeric literal out of representable integer range
+JavaScript warning: https://web.telegram.org/js/app.js, line 36: asm.js type error: fixnum is not a subtype of double? or floatish
+JavaScript warning: https://web.telegram.org/js/app.js, line 53: asm.js type error: double is not a subtype of int
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1616772523133	Marionette	INFO	Stopped listening on port 57458
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616772528118	geckodriver	INFO	Listening on 127.0.0.1:57549
+1616772534927	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aloysius\\AppData\\Local\\Temp\\rust_mozprofileQtlAv7"
+1616772536352	Marionette	INFO	Listening on port 57557
+1616772536470	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.telegram.org/js/app.js, line 20: asm.js type error: duplicate name 'n' not allowed
+JavaScript warning: https://web.telegram.org/js/app.js, line 31: asm.js type error: numeric literal out of representable integer range
+JavaScript warning: https://web.telegram.org/js/app.js, line 36: asm.js type error: fixnum is not a subtype of double? or floatish
+JavaScript warning: https://web.telegram.org/js/app.js, line 53: asm.js type error: double is not a subtype of int
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+[Parent 1272, IPC I/O Parent] WARNING: file /builds/worker/c1616773373996	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aloysius\\AppData\\Local\\Temp\\rust_mozprofile5BdQNh"
+1616773375493	Marionette	INFO	Listening on port 57769
+1616773375549	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.telegram.org/js/app.js, line 20: asm.js type error: duplicate name 'n' not allowed
+JavaScript warning: https://web.telegram.org/js/app.js, line 31: asm.js type error: numeric literal out of representable integer range
+JavaScript warning: https://web.telegram.org/js/app.js, line 36: asm.js type error: fixnum is not a subtype of double? or floatish
+JavaScript warning: https://web.telegram.org/js/app.js, line 53: asm.js type error: double is not a subtype of int
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+[Parent 12580, IPC I/O Parent] WARNING: file /builds/worker/1616773777054	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aloysius\\AppData\\Local\\Temp\\rust_mozprofileKJypeT"
+1616773778557	Marionette	INFO	Listening on port 57889
+1616773778612	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.telegram.org/js/app.js, line 20: asm.js type error: duplicate name 'n' not allowed
+JavaScript warning: https://web.telegram.org/js/app.js, line 31: asm.js type error: numeric literal out of representable integer range
+JavaScript warning: https://web.telegram.org/js/app.js, line 36: asm.js type error: fixnum is not a subtype of double? or floatish
+JavaScript warning: https://web.telegram.org/js/app.js, line 53: asm.js type error: double is not a subtype of int
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1616773976089	Marionette	INFO	Stopped listening on port 57881616773982024	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aloysius\\AppData\\Local\\Temp\\rust_mozprofilejvnukI"
+1616773983403	Marionette	INFO	Listening on port 57987
+1616773983561	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.telegram.org/js/app.js, line 20: asm.js type error: duplicate name 'n' not allowed
+JavaScript warning: https://web.telegram.org/js/app.js, line 31: asm.js type error: numeric literal out of representable integer range
+JavaScript warning: https://web.telegram.org/js/app.js, line 36: asm.js type error: fixnum is not a subtype of double? or floatish
+JavaScript warning: https://web.telegram.org/js/app.js, line 53: asm.js type error: double is not a subtype of int
+1616774152324	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: timeout
+1616780375315	Marionette	INFO	Stopped listening on port 57987
+6776556386	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aloysius\\AppData\\Local\\Temp\\rust_mozprofilelNdjHn"
+1616776558233	Marionette	INFO	Listening on port 51686
+1616776558450	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.telegram.org/js/app.js, line 20: asm.js type error: duplicate name 'n' not allowed
+JavaScript warning: https://web.telegram.org/js/app.js, line 31: asm.js type error: numeric literal out of representable integer range
+JavaScript warning: https://web.telegram.org/js/app.js, line 36: asm.js type error: fixnum is not a subtype of double? or floatish
+JavaScript warning: https://web.telegram.org/js/app.js, line 53: asm.js type error: double is not a subtype of int
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1616780376204	Marionette	INFO	Stopped listening on port 51686
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aloysius\\AppData\\Local\\Temp\\rust_mozprofileHxzdzt"
+1616779316026	Marionette	INFO	Listening on port 51908
+1616779316049	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.telegram.org/js/app.js, line 20: asm.js type error: duplicate name 'n' not allowed
+JavaScript warning: https://web.telegram.org/js/app.js, line 31: asm.js type error: numeric literal out of representable integer range
+JavaScript warning: https://web.telegram.org/js/app.js, line 36: asm.js type error: fixnum is not a subtype of double? or floatish
+JavaScript warning: https://web.telegram.org/js/app.js, line 53: asm.js type error: double is not a subtype of int
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1616780377293	Marionette	INFO	Stopped listening on port 51908
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aloysius\\AppData\\Local\\Temp\\rust_mozprofileBLTJys"
+1616779854592	Marionette	INFO	Listening on port 52041
+1616779855030	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.telegram.org/js/app.js, line 20: asm.js type error: duplicate name 'n' not allowed
+JavaScript warning: https://web.telegram.org/js/app.js, line 31: asm.js type error: numeric literal out of representable integer range
+JavaScript warning: https://web.telegram.org/js/app.js, line 36: asm.js type error: fixnum is not a subtype of double? or floatish
+JavaScript warning: https://web.telegram.org/js/app.js, line 53: asm.js type error: double is not a subtype of int
+1616779896027	Marionette	INFO	Stopped listening on port 52041
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616779898677	geckodriver	INFO	Listening on 127.0.0.1:52131
+1616779906357	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aloysius\\AppData\\Local\\Temp\\rust_mozprofileyEOVE2"
+1616779907877	Marionette	INFO	Listening on port 52142
+1616779907905	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.telegram.org/js/app.js, line 20: asm.js type error: duplicate name 'n' not allowed
+JavaScript warning: https://web.telegram.org/js/app.js, line 31: asm.js type error: numeric literal out of representable integer range
+JavaScript warning: https://web.telegram.org/js/app.js, line 36: asm.js type error: fixnum is not a subtype of double? or floatish
+JavaScript warning: https://web.telegram.org/js/app.js, line 53: asm.js type error: double is not a subtype of int
+1616779942607	Marionette	INFO	Stopped listening on port 52141616779948724	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aloysius\\AppData\\Local\\Temp\\rust_mozprofile3c8W3i"
+1616779950330	Marionette	INFO	Listening on port 52217
+1616779950771	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.telegram.org/js/app.js, line 20: asm.js type error: duplicate name 'n' not allowed
+JavaScript warning: https://web.telegram.org/js/app.js, line 31: asm.js type error: numeric literal out of representable integer range
+JavaScript warning: https://web.telegram.org/js/app.js, line 36: asm.js type error: fixnum is not a subtype of double? or floatish
+JavaScript warning: https://web.telegram.org/js/app.js, line 53: asm.js type error: double is not a subtype of int
+[Parent 17412, IPC I/O Parent] WARNING: file /builds/worker/1616780050171	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aloysius\\AppData\\Local\\Temp\\rust_mozprofileKjHHgJ"
+1616780051683	Marionette	INFO	Listening on port 52301
+1616780051712	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.telegram.org/js/app.js, line 20: asm.js type error: duplicate name 'n' not allowed
+JavaScript warning: https://web.telegram.org/js/app.js, line 31: asm.js type error: numeric literal out of representable integer range
+JavaScript warning: https://web.telegram.org/js/app.js, line 36: asm.js type error: fixnum is not a subtype of double? or floatish
+JavaScript warning: https://web.telegram.org/js/app.js, line 53: asm.js type error: double is not a subtype of int
+1616780160349	Marionette	INFO	Stopped listening on port 52301616780166387	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aloysius\\AppData\\Local\\Temp\\rust_mozprofilewGGujP"
+1616780167892	Marionette	INFO	Listening on port 52389
+1616780167937	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.telegram.org/js/app.js, line 20: asm.js type error: duplicate name 'n' not allowed
+JavaScript warning: https://web.telegram.org/js/app.js, line 31: asm.js type error: numeric literal out of representable integer range
+JavaScript warning: https://web.telegram.org/js/app.js, line 36: asm.js type error: fixnum is not a subtype of double? or floatish
+JavaScript warning: https://web.telegram.org/js/app.js, line 53: asm.js type error: double is not a subtype of int
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1616780378361	Marionette	INFO	Stopped listening on port 52389
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616780468327	geckodriver	INFO	Listening on 127.0.0.1:52518
+1616780475288	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aloysius\\AppData\\Local\\Temp\\rust_mozprofileq9suEz"
+1616780476767	Marionette	INFO	Listening on port 52527
+1616780476840	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.telegram.org/js/app.js, line 20: asm.js type error: duplicate name 'n' not allowed
+JavaScript warning: https://web.telegram.org/js/app.js, line 31: asm.js type error: numeric literal out of representable integer range
+JavaScript warning: https://web.telegram.org/js/app.js, line 36: asm.js type error: fixnum is not a subtype of double? or floatish
+JavaScript warning: https://web.telegram.org/js/app.js, line 53: asm.js type error: double is not a subtype of int
+1616780625665	addons.xpi	ERROR	System addon update list erro1616780627270	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aloysius\\AppData\\Local\\Temp\\rust_mozprofileEDTS7S"
+1616780628672	Marionette	INFO	Listening on port 52627
+1616780628810	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.telegram.org/js/app.js, line 20: asm.js type error: duplicate name 'n' not allowed
+JavaScript warning: https://web.telegram.org/js/app.js, line 31: asm.js type error: numeric literal out of representable integer range
+JavaScript warning: https://web.telegram.org/js/app.js, line 36: asm.js type error: fixnum is not a subtype of double? or floatish
+JavaScript warning: https://web.telegram.org/js/app.js, line 53: asm.js type error: double is not a subtype of int
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+[Parent 576, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1616788346920	Marionette	INFO	Stopped listening on port 52627
+eground" "-no-remote" "-profile" "C:\\Users\\Aloysius\\AppData\\Local\\Temp\\rust_mozprofileG2S3us"
+1616780813654	Marionette	INFO	Listening on port 52717
+1616780813693	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.telegram.org/js/app.js, line 20: asm.js type error: duplicate name 'n' not allowed
+JavaScript warning: https://web.telegram.org/js/app.js, line 31: asm.js type error: numeric literal out of representable integer range
+JavaScript warning: https://web.telegram.org/js/app.js, line 36: asm.js type error: fixnum is not a subtype of double? or floatish
+JavaScript warning: https://web.telegram.org/js/app.js, line 53: asm.js type error: double is not a subtype of int
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1616781640570	Marionette	INFO	Stopped listening on port 52717
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616788345821	geckodriver	INFO	Listening on 127.0.0.1:54521
+1616788353061	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aloysius\\AppData\\Local\\Temp\\rust_mozprofileldZq61"
+1616788354600	Marionette	INFO	Listening on port 54529
+1616788355114	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.telegram.org/js/app.js, line 20: asm.js type error: duplicate name 'n' not allowed
+JavaScript warning: https://web.telegram.org/js/app.js, line 31: asm.js type error: numeric literal out of representable integer range
+JavaScript warning: https://web.telegram.org/js/app.js, line 36: asm.js type error: fixnum is not a subtype of double? or floatish
+JavaScript warning: https://web.telegram.org/js/app.js, line 53: asm.js type error: double is not a subtype of int
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+[Parent 4684, IPC I/O Parent] WARNING: file /builds/worker/c1616788778391	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aloysius\\AppData\\Local\\Temp\\rust_mozprofilevVIKnO"
+1616788779794	Marionette	INFO	Listening on port 54643
+1616788779937	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.telegram.org/js/app.js, line 20: asm.js type error: duplicate name 'n' not allowed
+JavaScript warning: https://web.telegram.org/js/app.js, line 31: asm.js type error: numeric literal out of representable integer range
+JavaScript warning: https://web.telegram.org/js/app.js, line 36: asm.js type error: fixnum is not a subtype of double? or floatish
+JavaScript warning: https://web.telegram.org/js/app.js, line 53: asm.js type error: double is not a subtype of int
+1616788894532	Marionette	INFO	Stopped listening on port 54643
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616788897998	geckodriver	INFO	Listening on 127.0.0.1:54731
+1616788904861	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aloysius\\AppData\\Local\\Temp\\rust_mozprofileud0qMA"
+1616788906242	Marionette	INFO	Listening on port 54740
+1616788906396	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.telegram.org/js/app.js, line 20: asm.js type error: duplicate name 'n' not allowed
+JavaScript warning: https://web.telegram.org/js/app.js, line 31: asm.js type error: numeric literal out of representable integer range
+JavaScript warning: https://web.telegram.org/js/app.js, line 36: asm.js type error: fixnum is not a subtype of double? or floatish
+JavaScript warning: https://web.telegram.org/js/app.js, line 53: asm.js type error: double is not a subtype of int
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1616789357410	Marionette	INFO	Stopped listening on port 54741616789362599	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aloysius\\AppData\\Local\\Temp\\rust_mozprofileEGpt8N"
+1616789364056	Marionette	INFO	Listening on port 54892
+1616789364142	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.telegram.org/js/app.js, line 20: asm.js type error: duplicate name 'n' not allowed
+JavaScript warning: https://web.telegram.org/js/app.js, line 31: asm.js type error: numeric literal out of representable integer range
+JavaScript warning: https://web.telegram.org/js/app.js, line 36: asm.js type error: fixnum is not a subtype of double? or floatish
+JavaScript warning: https://web.telegram.org/js/app.js, line 53: asm.js type error: double is not a subtype of int
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1616789568831	Marionette	INFO	Stopped listening on port 54891616789574843	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aloysius\\AppData\\Local\\Temp\\rust_mozprofileWdV1NS"
+1616789576283	Marionette	INFO	Listening on port 54993
+1616789576393	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.telegram.org/js/app.js, line 20: asm.js type error: duplicate name 'n' not allowed
+JavaScript warning: https://web.telegram.org/js/app.js, line 31: asm.js type error: numeric literal out of representable integer range
+JavaScript warning: https://web.telegram.org/js/app.js, line 36: asm.js type error: fixnum is not a subtype of double? or floatish
+JavaScript warning: https://web.telegram.org/js/app.js, line 53: asm.js type error: double is not a subtype of int
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1616789916529	Marionette	INFO	Stopped listening on port 54993
+6789816530	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aloysius\\AppData\\Local\\Temp\\rust_mozprofilew53UMR"
+1616789817965	Marionette	INFO	Listening on port 55099
+1616789818077	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.telegram.org/js/app.js, line 20: asm.js type error: duplicate name 'n' not allowed
+JavaScript warning: https://web.telegram.org/js/app.js, line 31: asm.js type error: numeric literal out of representable integer range
+JavaScript warning: https://web.telegram.org/js/app.js, line 36: asm.js type error: fixnum is not a subtype of double? or floatish
+JavaScript warning: https://web.telegram.org/js/app.js, line 53: asm.js type error: double is not a subtype of int
+1616789915163	Marionette	INFO	Stopped listening on port 55091616789920568	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aloysius\\AppData\\Local\\Temp\\rust_mozprofileWr1ecg"
+1616789921973	Marionette	INFO	Listening on port 55187
+1616789922096	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.telegram.org/js/app.js, line 20: asm.js type error: duplicate name 'n' not allowed
+JavaScript warning: https://web.telegram.org/js/app.js, line 31: asm.js type error: numeric literal out of representable integer range
+JavaScript warning: https://web.telegram.org/js/app.js, line 36: asm.js type error: fixnum is not a subtype of double? or floatish
+JavaScript warning: https://web.telegram.org/js/app.js, line 53: asm.js type error: double is not a subtype of int
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1616790683660	Marionette	INFO	Stopped listening on port 55187
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aloysius\\AppData\\Local\\Temp\\rust_mozprofileaFaVgn"
+1616790137425	Marionette	INFO	Listening on port 55315
+1616790137859	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.telegram.org/js/app.js, line 20: asm.js type error: duplicate name 'n' not allowed
+JavaScript warning: https://web.telegram.org/js/app.js, line 31: asm.js type error: numeric literal out of representable integer range
+JavaScript warning: https://web.telegram.org/js/app.js, line 36: asm.js type error: fixnum is not a subtype of double? or floatish
+JavaScript warning: https://web.telegram.org/js/app.js, line 53: asm.js type error: double is not a subtype of int
+[Parent 8908, IPC I/O Parent] WARNING: file /builds/worker/c1616790215884	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aloysius\\AppData\\Local\\Temp\\rust_mozprofilePrlQT2"
+1616790217384	Marionette	INFO	Listening on port 55397
+1616790217426	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.telegram.org/js/app.js, line 20: asm.js type error: duplicate name 'n' not allowed
+JavaScript warning: https://web.telegram.org/js/app.js, line 31: asm.js type error: numeric literal out of representable integer range
+JavaScript warning: https://web.telegram.org/js/app.js, line 36: asm.js type error: fixnum is not a subtype of double? or floatish
+JavaScript warning: https://web.telegram.org/js/app.js, line 53: asm.js type error: double is not a subtype of int
+1616790332321	Marionette	INFO	Stopped listening on port 55391616790338370	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aloysius\\AppData\\Local\\Temp\\rust_mozprofilerZKimO"
+1616790339829	Marionette	INFO	Listening on port 55487
+1616790339909	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.telegram.org/js/app.js, line 20: asm.js type error: duplicate name 'n' not allowed
+JavaScript warning: https://web.telegram.org/js/app.js, line 31: asm.js type error: numeric literal out of representable integer range
+JavaScript warning: https://web.telegram.org/js/app.js, line 36: asm.js type error: fixnum is not a subtype of double? or floatish
+JavaScript warning: https://web.telegram.org/js/app.js, line 53: asm.js type error: double is not a subtype of int
+1616790349321	Marionette	INFO	Stopped listening on port 55487
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616790360950	geckodriver	INFO	Listening on 127.0.0.1:55554
+1616790368207	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aloysius\\AppData\\Local\\Temp\\rust_mozprofileeZsvLe"
+1616790369824	Marionette	INFO	Listening on port 55562
+1616790370246	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.telegram.org/js/app.js, line 20: asm.js type error: duplicate name 'n' not allowed
+JavaScript warning: https://web.telegram.org/js/app.js, line 31: asm.js type error: numeric literal out of representable integer range
+JavaScript warning: https://web.telegram.org/js/app.js, line 36: asm.js type error: fixnum is not a subtype of double? or floatish
+JavaScript warning: https://web.telegram.org/js/app.js, line 53: asm.js type error: double is not a subtype of int
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1616790679573	Marionette	INFO	Stopped listening on port 55561616790685683	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aloysius\\AppData\\Local\\Temp\\rust_mozprofileS3DdwF"
+1616790687181	Marionette	INFO	Listening on port 55691
+1616790687217	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.telegram.org/js/app.js, line 20: asm.js type error: duplicate name 'n' not allowed
+JavaScript warning: https://web.telegram.org/js/app.js, line 31: asm.js type error: numeric literal out of representable integer range
+JavaScript warning: https://web.telegram.org/js/app.js, line 36: asm.js type error: fixnum is not a subtype of double? or floatish
+JavaScript warning: https://web.telegram.org/js/app.js, line 53: asm.js type error: double is not a subtype of int
+[Parent 16912, IPC I/O Parent] WARNING: file /builds/worker/1616790808112	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aloysius\\AppData\\Local\\Temp\\rust_mozprofileUn35oR"
+1616790809475	Marionette	INFO	Listening on port 55789
+1616790809645	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.telegram.org/js/app.js, line 20: asm.js type error: duplicate name 'n' not allowed
+JavaScript warning: https://web.telegram.org/js/app.js, line 31: asm.js type error: numeric literal out of representable integer range
+JavaScript warning: https://web.telegram.org/js/app.js, line 36: asm.js type error: fixnum is not a subtype of double? or floatish
+JavaScript warning: https://web.telegram.org/js/app.js, line 53: asm.js type error: double is not a subtype of int
+1616790936239	Marionette	INFO	Stopped listening on port 55781616790938147	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aloysius\\AppData\\Local\\Temp\\rust_mozprofileNd2hEa"
+1616790939545	Marionette	INFO	Listening on port 55883
+1616790939687	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.telegram.org/js/app.js, line 20: asm.js type error: duplicate name 'n' not allowed
+JavaScript warning: https://web.telegram.org/js/app.js, line 31: asm.js type error: numeric literal out of representable integer range
+JavaScript warning: https://web.telegram.org/js/app.js, line 36: asm.js type error: fixnum is not a subtype of double? or floatish
+JavaScript warning: https://web.telegram.org/js/app.js, line 53: asm.js type error: double is not a subtype of int
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1616791178937	Marionette	INFO	Stopped listening on port 55883
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aloysius\\AppData\\Local\\Temp\\rust_mozprofilelOUPjO"
+1616791180564	Marionette	INFO	Listening on port 55984
+1616791180976	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.telegram.org/js/app.js, line 20: asm.js type error: duplicate name 'n' not allowed
+JavaScript warning: https://web.telegram.org/js/app.js, line 31: asm.js type error: numeric literal out of representable integer range
+JavaScript warning: https://web.telegram.org/js/app.js, line 36: asm.js type error: fixnum is not a subtype of double? or floatish
+JavaScript warning: https://web.telegram.org/js/app.js, line 53: asm.js type error: double is not a subtype of int
+1616791272082	Marionette	INFO	Stopped listening on port 55981616791277903	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aloysius\\AppData\\Local\\Temp\\rust_mozprofileIh1h4V"
+1616791279250	Marionette	INFO	Listening on port 56071
+1616791279453	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.telegram.org/js/app.js, line 20: asm.js type error: duplicate name 'n' not allowed
+JavaScript warning: https://web.telegram.org/js/app.js, line 31: asm.js type error: numeric literal out of representable integer range
+JavaScript warning: https://web.telegram.org/js/app.js, line 36: asm.js type error: fixnum is not a subtype of double? or floatish
+JavaScript warning: https://web.telegram.org/js/app.js, line 53: asm.js type error: double is not a subtype of int
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1616791792089	Marionette	INFO	Stopped listening on port 56071
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+l\\Temp\\rust_mozprofileAOg795"
+1616791373560	Marionette	INFO	Listening on port 56164
+1616791373690	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.telegram.org/js/app.js, line 20: asm.js type error: duplicate name 'n' not allowed
+JavaScript warning: https://web.telegram.org/js/app.js, line 31: asm.js type error: numeric literal out of representable integer range
+JavaScript warning: https://web.telegram.org/js/app.js, line 36: asm.js type error: fixnum is not a subtype of double? or floatish
+JavaScript warning: https://web.telegram.org/js/app.js, line 53: asm.js type error: double is not a subtype of int
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1616791790751	Marionette	INFO	Stopped listening on port 56164
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aloysius\\AppData\\Local\\Temp\\rust_mozprofileQPp6M8"
+1616791790988	Marionette	INFO	Listening on port 56365
+1616791791484	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.telegram.org/js/app.js, line 20: asm.js type error: duplicate name 'n' not allowed
+JavaScript warning: https://web.telegram.org/js/app.js, line 31: asm.js type error: numeric literal out of representable integer range
+JavaScript warning: https://web.telegram.org/js/app.js, line 36: asm.js type error: fixnum is not a subtype of double? or floatish
+JavaScript warning: https://web.telegram.org/js/app.js, line 53: asm.js type error: double is not a subtype of int
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1616791955661	Marionette	INFO	Stopped listening on port 56361616791961465	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aloysius\\AppData\\Local\\Temp\\rust_mozprofileAUYDdF"
+1616791962867	Marionette	INFO	Listening on port 56470
+1616791963020	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.telegram.org/js/app.js, line 20: asm.js type error: duplicate name 'n' not allowed
+JavaScript warning: https://web.telegram.org/js/app.js, line 31: asm.js type error: numeric literal out of representable integer range
+JavaScript warning: https://web.telegram.org/js/app.js, line 36: asm.js type error: fixnum is not a subtype of double? or floatish
+JavaScript warning: https://web.telegram.org/js/app.js, line 53: asm.js type error: double is not a subtype of int
+1616792067599	Marionette	INFO	Stopped listening on port 56471616792073723	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aloysius\\AppData\\Local\\Temp\\rust_mozprofilevwdBBc"
+1616792075150	Marionette	INFO	Listening on port 56563
+1616792075266	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.telegram.org/js/app.js, line 20: asm.js type error: duplicate name 'n' not allowed
+JavaScript warning: https://web.telegram.org/js/app.js, line 31: asm.js type error: numeric literal out of representable integer range
+JavaScript warning: https://web.telegram.org/js/app.js, line 36: asm.js type error: fixnum is not a subtype of double? or floatish
+JavaScript warning: https://web.telegram.org/js/app.js, line 53: asm.js type error: double is not a subtype of int
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+[Parent 15504, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1616792463928	Marionette	INFO	Stopped listening on port 56563
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+6792265735	Marionette	INFO	Listening on port 56663
+1616792265785	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.telegram.org/js/app.js, line 20: asm.js type error: duplicate name 'n' not allowed
+JavaScript warning: https://web.telegram.org/js/app.js, line 31: asm.js type error: numeric literal out of representable integer range
+JavaScript warning: https://web.telegram.org/js/app.js, line 36: asm.js type error: fixnum is not a subtype of double? or floatish
+JavaScript warning: https://web.telegram.org/js/app.js, line 53: asm.js type error: double is not a subtype of int
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1616792465195	Marionette	INFO	Stopped listening on port 56663
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aloysius\\AppData\\Local\\Temp\\rust_mozprofileVrR0EW"
+1616792462627	Marionette	INFO	Listening on port 56788
+1616792462693	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.telegram.org/js/app.js, line 20: asm.js type error: duplicate name 'n' not allowed
+JavaScript warning: https://web.telegram.org/js/app.js, line 31: asm.js type error: numeric literal out of representable integer range
+JavaScript warning: https://web.telegram.org/js/app.js, line 36: asm.js type error: fixnum is not a subtype of double? or floatish
+JavaScript warning: https://web.telegram.org/js/app.js, line 53: asm.js type error: double is not a subtype of int
+[Parent 14260, IPC I/O Parent] WARNING: file /builds/worker/1616792597050	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aloysius\\AppData\\Local\\Temp\\rust_mozprofilebwFHDE"
+1616792598484	Marionette	INFO	Listening on port 56884
+1616792598602	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.telegram.org/js/app.js, line 20: asm.js type error: duplicate name 'n' not allowed
+JavaScript warning: https://web.telegram.org/js/app.js, line 31: asm.js type error: numeric literal out of representable integer range
+JavaScript warning: https://web.telegram.org/js/app.js, line 36: asm.js type error: fixnum is not a subtype of double? or floatish
+JavaScript warning: https://web.telegram.org/js/app.js, line 53: asm.js type error: double is not a subtype of int
+1616792705578	Marionette	INFO	Stopped listening on port 56881616792711409	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aloysius\\AppData\\Local\\Temp\\rust_mozprofileXqwpeN"
+1616792712856	Marionette	INFO	Listening on port 56983
+1616792712953	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.telegram.org/js/app.js, line 20: asm.js type error: duplicate name 'n' not allowed
+JavaScript warning: https://web.telegram.org/js/app.js, line 31: asm.js type error: numeric literal out of representable integer range
+JavaScript warning: https://web.telegram.org/js/app.js, line 36: asm.js type error: fixnum is not a subtype of double? or floatish
+JavaScript warning: https://web.telegram.org/js/app.js, line 53: asm.js type error: double is not a subtype of int
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1616796719892	Marionette	INFO	Stopped listening on port 56983
+6793508970	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aloysius\\AppData\\Local\\Temp\\rust_mozprofileL0jQMj"
+1616793510466	Marionette	INFO	Listening on port 57276
+1616793510513	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.telegram.org/js/app.js, line 20: asm.js type error: duplicate name 'n' not allowed
+JavaScript warning: https://web.telegram.org/js/app.js, line 31: asm.js type error: numeric literal out of representable integer range
+JavaScript warning: https://web.telegram.org/js/app.js, line 36: asm.js type error: fixnum is not a subtype of double? or floatish
+JavaScript warning: https://web.telegram.org/js/app.js, line 53: asm.js type error: double is not a subtype of int
+1616793605649	Marionette	INFO	Stopped listening on port 57271616793611050	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aloysius\\AppData\\Local\\Temp\\rust_mozprofilehZHpzD"
+1616793612626	Marionette	INFO	Listening on port 57398
+1616793613105	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.telegram.org/js/app.js, line 20: asm.js type error: duplicate name 'n' not allowed
+JavaScript warning: https://web.telegram.org/js/app.js, line 31: asm.js type error: numeric literal out of representable integer range
+JavaScript warning: https://web.telegram.org/js/app.js, line 36: asm.js type error: fixnum is not a subtype of double? or floatish
+JavaScript warning: https://web.telegram.org/js/app.js, line 53: asm.js type error: double is not a subtype of int
+[Parent 1136, IPC I/O Parent] WARNING: file /builds/worker/c1616793700963	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aloysius\\AppData\\Local\\Temp\\rust_mozprofile9Y0Yv6"
+1616793702550	Marionette	INFO	Listening on port 57494
+1616793703007	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.telegram.org/js/app.js, line 20: asm.js type error: duplicate name 'n' not allowed
+JavaScript warning: https://web.telegram.org/js/app.js, line 31: asm.js type error: numeric literal out of representable integer range
+JavaScript warning: https://web.telegram.org/js/app.js, line 36: asm.js type error: fixnum is not a subtype of double? or floatish
+JavaScript warning: https://web.telegram.org/js/app.js, line 53: asm.js type error: double is not a subtype of int
+[Parent 17000, IPC I/O Parent] WARNING: file /builds/worker/1616793771038	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aloysius\\AppData\\Local\\Temp\\rust_mozprofileCweCMH"
+1616793772564	Marionette	INFO	Listening on port 57590
+1616793773083	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.telegram.org/js/app.js, line 20: asm.js type error: duplicate name 'n' not allowed
+JavaScript warning: https://web.telegram.org/js/app.js, line 31: asm.js type error: numeric literal out of representable integer range
+JavaScript warning: https://web.telegram.org/js/app.js, line 36: asm.js type error: fixnum is not a subtype of double? or floatish
+JavaScript warning: https://web.telegram.org/js/app.js, line 53: asm.js type error: double is not a subtype of int
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1616796718897	Marionette	INFO	Stopped listening on port 57590
+6794050238	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aloysius\\AppData\\Local\\Temp\\rust_mozprofileEsFhmO"
+1616794052026	Marionette	INFO	Listening on port 57794
+1616794052290	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.telegram.org/js/app.js, line 20: asm.js type error: duplicate name 'n' not allowed
+JavaScript warning: https://web.telegram.org/js/app.js, line 31: asm.js type error: numeric literal out of representable integer range
+JavaScript warning: https://web.telegram.org/js/app.js, line 36: asm.js type error: fixnum is not a subtype of double? or floatish
+JavaScript warning: https://web.telegram.org/js/app.js, line 53: asm.js type error: double is not a subtype of int
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1616794210273	Marionette	INFO	Stopped listening on port 57794
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616794225400	geckodriver	INFO	Listening on 127.0.0.1:57912
+1616794232634	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aloysius\\AppData\\Local\\Temp\\rust_mozprofileKU1UeY"
+1616794234196	Marionette	INFO	Listening on port 57921
+1616794234699	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.telegram.org/js/app.js, line 20: asm.js type error: duplicate name 'n' not allowed
+JavaScript warning: https://web.telegram.org/js/app.js, line 31: asm.js type error: numeric literal out of representable integer range
+JavaScript warning: https://web.telegram.org/js/app.js, line 36: asm.js type error: fixnum is not a subtype of double? or floatish
+JavaScript warning: https://web.telegram.org/js/app.js, line 53: asm.js type error: double is not a subtype of int
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1616794797731	Marionette	INFO	Stopped listening on port 57921616794800591	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aloysius\\AppData\\Local\\Temp\\rust_mozprofiles7jaVa"
+1616794802149	Marionette	INFO	Listening on port 58114
+1616794802630	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.telegram.org/js/app.js, line 20: asm.js type error: duplicate name 'n' not allowed
+JavaScript warning: https://web.telegram.org/js/app.js, line 31: asm.js type error: numeric literal out of representable integer range
+JavaScript warning: https://web.telegram.org/js/app.js, line 36: asm.js type error: fixnum is not a subtype of double? or floatish
+JavaScript warning: https://web.telegram.org/js/app.js, line 53: asm.js type error: double is not a subtype of int
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1616796716558	Marionette	INFO	Stopped listening on port 58114
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aloysius\\AppData\\Local\\Temp\\rust_mozprofilesnEfYE"
+1616795585048	Marionette	INFO	Listening on port 58314
+1616795585356	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.telegram.org/js/app.js, line 20: asm.js type error: duplicate name 'n' not allowed
+JavaScript warning: https://web.telegram.org/js/app.js, line 31: asm.js type error: numeric literal out of representable integer range
+JavaScript warning: https://web.telegram.org/js/app.js, line 36: asm.js type error: fixnum is not a subtype of double? or floatish
+JavaScript warning: https://web.telegram.org/js/app.js, line 53: asm.js type error: double is not a subtype of int
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1616795741146	Marionette	INFO	Stopped listening on port 58311616795747460	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aloysius\\AppData\\Local\\Temp\\rust_mozprofileGu2A59"
+1616795749045	Marionette	INFO	Listening on port 58408
+1616795749510	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.telegram.org/js/app.js, line 20: asm.js type error: duplicate name 'n' not allowed
+JavaScript warning: https://web.telegram.org/js/app.js, line 31: asm.js type error: numeric literal out of representable integer range
+JavaScript warning: https://web.telegram.org/js/app.js, line 36: asm.js type error: fixnum is not a subtype of double? or floatish
+JavaScript warning: https://web.telegram.org/js/app.js, line 53: asm.js type error: double is not a subtype of int
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1616796714525	Marionette	INFO	Stopped listening on port 58408
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
