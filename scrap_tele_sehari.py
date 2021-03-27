@@ -90,6 +90,7 @@ while belum:
     pesan = driver.find_element_by_xpath("/html/body/div[1]/div[2]/div/div[2]/div[3]/div/div[2]/div[1]/div/div[1]/div[2]/div[2]/div["+str(psn)+"]")
     driver.execute_script("arguments[0].scrollIntoView(true);", pesan)
     psn-=1
+    emoji = []
     try:
         if (len(pesan.find_elements_by_xpath(".//a[@class='im_message_photo_thumb']")) > 0) :
             # print('ini adalah foto')
@@ -136,6 +137,10 @@ while belum:
             jam = jam + pesan.find_element_by_xpath(".//span[@ng-bind='::historyMessage.date | time']").text
             last = pesan.find_element_by_xpath(".//div[@class='im_message_text']").text
             pesan2.insert(0, last)
+            emo = pesan.find_elements_by_xpath(".//span[@class='emoji  emoji-spritesheet-0']")
+            for x in emo :
+                emoji.append(x.text)
+            print("Emoji = "+emoji)
             if(len(pesan.find_elements_by_xpath(".//span[@my-short-message='replyMessage']"))>0):
                 balas = pesan.find_element_by_xpath(".//span[@my-short-message='replyMessage']").text
                 balas = "Membalas : " + balas
@@ -146,6 +151,10 @@ while belum:
     # print("Div : "+str(i))
     pesan3 = "\n".join(pesan2)
     masuk = False
+    for x in pesan3:
+        b = x.isascii()
+        if not b:
+            pesan3 = pesan3.replace(x, ' ')
     if any(word in pesan3.upper().split() for word in Saham):
         masuk = True
     if(penulis != "" and penulis!="Error"):
@@ -153,11 +162,11 @@ while belum:
     # print("Div : "+str(i))
         print("Data : "+str(psn))
         print("user : "+penulis)
-        try:
-            f.write("User : "+ penulis +"\n"+pesan3+"\nJam : "+jam+"\n==========================\n")
-            print(pesan3)
-        except:
-            print("Tidak bisa menampilkan pesan")
+        # try:
+        f.write("User : "+ penulis +"\n"+pesan3+"\nJam : "+jam+"\n==========================\n")
+        print(pesan3)
+        # except:
+            # print("Tidak bisa menampilkan pesan")
         print("jam : " + jam)
         print('=======================================================')
         item = {

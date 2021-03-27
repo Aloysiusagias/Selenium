@@ -44,7 +44,21 @@
 
 # driver.get('https://money.kompas.com/read/2021/03/24/194729926/bantah-selundupkan-baja-dari-china-bos-krakatau-steel-tuduhan-yang-sangat')
 # driver.find_element_by_xpath('/html/body/div[1]/div[3]/div[3]/div[1]/div[4]/div[2]/div[6]/div/div[3]/a').click()
-f = open("demofile2.txt", "w+")
-for i in range(10):
-    f.write("Now the file has more content!\n")
-f.close()
+# f = open("demofile2.txt", "w+")
+# for i in range(10):
+#     f.write("Now the file has more content!\n")
+# f.close()
+
+a = "Sukses selalu  🏻"
+
+for x in a:
+    b = x.isascii()
+    if not b:
+        a = a.replace(x, 'sudah diganti')
+
+print(a)
+
+# a = "S"
+
+# b = a.isascii()
+# print(b)
